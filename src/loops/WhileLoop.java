@@ -8,7 +8,7 @@ public class WhileLoop {
 		while (i<=10) {
 			System.out.println(i);
 			//i++;
-			i+=2;
+			//i+=2;
 			
 		}
 		System.out.println("prog exited");
