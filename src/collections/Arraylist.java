@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Arraylist {
 	public static void main(String[] args) {
 		ArrayList al = new ArrayList(); // store any type of element
+		
 		// ArrayList<String> al = new ArrayList<String>(); // string type
 		// ArrayList<Integer> AI = new ArrayList<Integer>();//integer type
 
@@ -14,6 +15,7 @@ public class Arraylist {
 		al.add("man");
 		al.add(123);
 		al.add('a');
+		
 
 		// getting size of al
 		System.out.println(al.size());
